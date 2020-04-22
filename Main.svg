@@ -1,0 +1,470 @@
+<svg contentScriptType="text/ecmascript" zoomAndPan="magnify" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" version="1.1" width="1280" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" preserveAspectRatio="xMidYMid meet" xmlns:myscada="http://www.myscada.org" viewBox="0 0 1280.0 800.0" inkscape:voditka="{&quot;voditkoHorValues&quot;:[],&quot;voditkoVerValues&quot;:[]}" height="800" xmlns="http://www.w3.org/2000/svg">
+<style id="mySCADAFontCSSs" xml:space="preserve">
+@font-face{font-family:&quot;DS-Digital&quot;;src:url(&quot;Fonts/DS-DIGIT.TTF&quot;);}@font-face{font-family:&quot;Tahoma&quot;;src:url(&quot;Fonts/tahomabd.ttf&quot;);}@font-face{font-family:&quot;Ubuntu&quot;;src:url(&quot;Fonts/Ubuntu-B.ttf&quot;);}</style>
+<defs/>
+<rect x="0" width="1280" id="pozadiNoSeL" height="800" y="0" style="stroke:#CCCCCC;fill:#CCCCCC;stoke:#ffffff;"/>
+<style type="text/css" xml:space="preserve">
+* {    -webkit-touch-callout: none;    -webkit-user-select: none; /* Disable selection/Copy of UIWebView */}</style>
+<g inkscape:layerlabel="Background" inkscape:groupmode="layer" id="layer0">
+<rect x="77.99999999999999" y="97.88815816243496" width="55.20512820512819" style="fill:#808080;stroke:none; stroke-width:1;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;" rx="10" ry="10" id="rect0009" height="16.5"/>
+<g inkscape:componentSize="919.2551879882812;537.0;209.58209228515625;74.57501220703125" inkscape:componentData="{&quot;name&quot;:&quot;Component Name&quot;,&quot;desc&quot;:&quot;Component Description&quot;,&quot;author&quot;:&quot;mySCADA Team&quot;,&quot;uniqueID&quot;:&quot;3295b6268f&quot;,&quot;MasterID&quot;:&quot;987172571&quot;,&quot;list&quot;:[{&quot;variableName&quot;:&quot;tag&quot;,&quot;name&quot;:&quot;Tag&quot;,&quot;desc&quot;:&quot;Enter Tag&quot;,&quot;value&quot;:&quot;test@script&quot;,&quot;valueSub&quot;:&quot;test&quot;,&quot;type&quot;:0},{&quot;variableName&quot;:&quot;colorbase&quot;,&quot;name&quot;:&quot;Background color&quot;,&quot;desc&quot;:&quot;Set color&quot;,&quot;value&quot;:&quot;#cccccc&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4},{&quot;variableName&quot;:&quot;colorstroke&quot;,&quot;name&quot;:&quot;Stroke color&quot;,&quot;desc&quot;:&quot;Set color&quot;,&quot;value&quot;:&quot;#4d4d4d&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4},{&quot;variableName&quot;:&quot;colortxt&quot;,&quot;name&quot;:&quot;Text color&quot;,&quot;desc&quot;:&quot;Set color&quot;,&quot;value&quot;:&quot;#FFFFFF&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4},{&quot;variableName&quot;:&quot;fs&quot;,&quot;name&quot;:&quot;Text size &quot;,&quot;desc&quot;:&quot;Set size&quot;,&quot;value&quot;:&quot;36&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:2},{&quot;variableName&quot;:&quot;format&quot;,&quot;name&quot;:&quot;Format&quot;,&quot;desc&quot;:&quot;Set format&quot;,&quot;value&quot;:&quot;##.#&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:1},{&quot;variableName&quot;:&quot;unit&quot;,&quot;name&quot;:&quot;Unit&quot;,&quot;desc&quot;:&quot;Set unit&quot;,&quot;value&quot;:&quot;\u0027C&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:1}]}" id="Comp86288302">
+<rect x="919.2552003860471" y="537.0000001467191" width="209.56600189208987" inkscape:vypln="colorbase,100" style="stroke-linejoin:miter;stroke-dasharray:none;stroke-width:1;fill:#cccccc;stroke:#4d4d4d;stroke-linecap:butt;" rx="5" height="74.57499694824219" id="86288302rect0001" ry="5" inkscape:vyplnStroke="colorstroke"/>
+<path clip-rule="evenodd" id="86288302path0003" d="M255.016,113.167v32.735  c-29.606,7.351-68.584,11.178-104.791,11.178c-40.858,0-73.187-3.827-104.791-11.916v-31.997c0-1.098,0.898-1.996,1.996-1.996  h205.59C254.117,111.171,255.016,112.069,255.016,113.167z" style="fill:#FFFFFF;fill-opacity:0.1;" fill-rule="evenodd" transform="matrix(1 0 0 1 873.8212280273438 426.25634765625)"/>
+<text x="181.5999999999999" y="55.199999999999974" transform="matrix(1 0 0 1 912.0846557617188 532.9027709960938)" inkscape:vypln="colortxt,100" inkscape:textik="unit" style="font-weight:bold;text-anchor:middle;font-size:12pt;font-family:&apos;Ubuntu&apos;;font-style:normal;fill:#FFFFFF;stroke:none;" id="86288302text0002">
+&apos;C</text>
+<g inkscape:groupmode="layer" id="layer1" style="opacity:1.0;display:inline;" inkscape:componentalign="cc" inkscape:layerlabel="text">
+<text transform="matrix(1 0 0 1 1023.5082397460938 588.2947998046875)" inkscape:lblTemplate="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;Value&quot;,&quot;param&quot;:&quot;Decimal&quot;,&quot;stringType&quot;:&quot;10;0;Automatic&quot;}" inkscape:vypln="colortxt,100" inkscape:textik="format" style="font-weight:normal;text-anchor:middle;font-size:36pt;font-family:&apos;DS-Digital&apos;;font-style:italic;fill:#FFFFFF;" inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;test@script&quot;,&quot;alias&quot;:&quot;test&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;Value&quot;,&quot;param&quot;:&quot;Decimal&quot;,&quot;stringType&quot;:&quot;10;0;Automatic&quot;},{&quot;attr&quot;:&quot;Component&quot;,&quot;parentID&quot;:&quot;Comp86288302&quot;}" id="86288302text0001" inkscape:textFontSize="fs">
+##.#</text>
+</g>
+<path d="M0 0L10 0L10 10L0 10L0 0Z" id="86288302positionCheckElementNoSeL" style="display:none" transform="matrix(1 0 0 1 918.7552490234375 536.5)"/>
+</g>
+<g inkscape:componentSize="919.2551879882812;620.792724609375;209.58209228515625;74.57501220703125" inkscape:componentData="{&quot;name&quot;:&quot;Component Name&quot;,&quot;desc&quot;:&quot;Component Description&quot;,&quot;author&quot;:&quot;mySCADA Team&quot;,&quot;uniqueID&quot;:&quot;3295b6268f&quot;,&quot;MasterID&quot;:&quot;987172571&quot;,&quot;list&quot;:[{&quot;variableName&quot;:&quot;tag&quot;,&quot;name&quot;:&quot;Tag&quot;,&quot;desc&quot;:&quot;Enter Tag&quot;,&quot;value&quot;:&quot;test@script&quot;,&quot;valueSub&quot;:&quot;test&quot;,&quot;type&quot;:0},{&quot;variableName&quot;:&quot;colorbase&quot;,&quot;name&quot;:&quot;Background color&quot;,&quot;desc&quot;:&quot;Set color&quot;,&quot;value&quot;:&quot;#cccccc&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4},{&quot;variableName&quot;:&quot;colorstroke&quot;,&quot;name&quot;:&quot;Stroke color&quot;,&quot;desc&quot;:&quot;Set color&quot;,&quot;value&quot;:&quot;#4d4d4d&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4},{&quot;variableName&quot;:&quot;colortxt&quot;,&quot;name&quot;:&quot;Text color&quot;,&quot;desc&quot;:&quot;Set color&quot;,&quot;value&quot;:&quot;#FFFFFF&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4},{&quot;variableName&quot;:&quot;fs&quot;,&quot;name&quot;:&quot;Text size &quot;,&quot;desc&quot;:&quot;Set size&quot;,&quot;value&quot;:&quot;36&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:2},{&quot;variableName&quot;:&quot;format&quot;,&quot;name&quot;:&quot;Format&quot;,&quot;desc&quot;:&quot;Set format&quot;,&quot;value&quot;:&quot;##.#&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:1},{&quot;variableName&quot;:&quot;unit&quot;,&quot;name&quot;:&quot;Unit&quot;,&quot;desc&quot;:&quot;Set unit&quot;,&quot;value&quot;:&quot;\u0027C&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:1}]}" id="Comp00000001">
+<rect x="919.2552003860471" y="620.792709497305" width="209.56600189208987" inkscape:vypln="colorbase,100" style="stroke-linejoin:miter;stroke-dasharray:none;stroke-width:1;fill:#cccccc;stroke:#4d4d4d;stroke-linecap:butt;" rx="5" ry="5" id="00000001rect0001" height="74.57499694824219" inkscape:vyplnStroke="colorstroke"/>
+<path clip-rule="evenodd" id="00000001path0003" d="M255.016,113.167v32.735  c-29.606,7.351-68.584,11.178-104.791,11.178c-40.858,0-73.187-3.827-104.791-11.916v-31.997c0-1.098,0.898-1.996,1.996-1.996  h205.59C254.117,111.171,255.016,112.069,255.016,113.167z" style="fill:#FFFFFF;fill-opacity:0.1;" fill-rule="evenodd" transform="matrix(1 0 0 1 873.8212280273438 510.049072265625)"/>
+<text x="181.5999999999999" y="55.199999999999974" transform="matrix(1 0 0 1 912.0846557617188 616.6954956054688)" inkscape:vypln="colortxt,100" inkscape:textik="unit" style="font-weight:bold;text-anchor:middle;font-size:12pt;font-family:&apos;Ubuntu&apos;;font-style:normal;fill:#FFFFFF;stroke:none;" id="00000001text0002">
+&apos;C</text>
+<g inkscape:groupmode="layer" id="g0001" style="opacity:1.0;display:inline;" inkscape:componentalign="cc" inkscape:layerlabel="text">
+<text transform="matrix(1 0 0 1 1023.5082397460938 672.0874633789062)" inkscape:lblTemplate="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;Value&quot;,&quot;param&quot;:&quot;Decimal&quot;,&quot;stringType&quot;:&quot;10;0;Automatic&quot;}" inkscape:vypln="colortxt,100" inkscape:textik="format" style="font-weight:normal;text-anchor:middle;font-size:36pt;font-family:&apos;DS-Digital&apos;;font-style:italic;fill:#FFFFFF;" inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;test@script&quot;,&quot;alias&quot;:&quot;test&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;Value&quot;,&quot;param&quot;:&quot;Decimal&quot;,&quot;stringType&quot;:&quot;10;0;Automatic&quot;},{&quot;attr&quot;:&quot;Component&quot;,&quot;parentID&quot;:&quot;Comp00000001&quot;}" id="00000001text0001" inkscape:textFontSize="fs">
+##.#</text>
+</g>
+<path d="M0 0L10 0L10 10L0 10L0 0Z" id="00000001positionCheckElementNoSeL" style="display:none" transform="matrix(1 0 0 1 918.7552490234375 620.292724609375)"/>
+</g>
+<text x="31" y="76" id="text0001" style="writing-mode:lr-tb;font-weight:normal;font-size:12pt;font-family:&apos;Tahoma&apos;;font-style:normal;fill:#000000;stroke:none;" transform="matrix(1 0 0 1 698.7552032470702 502.7927246093751)">
+Температура на входе</text>
+<text x="31" y="76" id="text0002" style="writing-mode:lr-tb;font-weight:normal;font-size:12pt;font-family:&apos;Tahoma&apos;;font-style:normal;fill:#000000;stroke:none;" transform="matrix(1 0 0 1 698.7552032470702 586.2885742187501)">
+Температура в баке</text>
+<text x="31" y="76" id="text0003" style="writing-mode:lr-tb;font-weight:normal;font-size:12pt;font-family:&apos;Tahoma&apos;;font-style:normal;fill:#000000;stroke:none;" transform="matrix(1 0 0 1 698.6041717529296 672.6000366210939)">
+Давление в баке</text>
+<g inkscape:componentSize="919.2551879882812;706.0;209.58209228515625;74.57501220703125" inkscape:componentData="{&quot;name&quot;:&quot;Component Name&quot;,&quot;desc&quot;:&quot;Component Description&quot;,&quot;author&quot;:&quot;mySCADA Team&quot;,&quot;uniqueID&quot;:&quot;3295b6268f&quot;,&quot;MasterID&quot;:&quot;987172571&quot;,&quot;list&quot;:[{&quot;variableName&quot;:&quot;tag&quot;,&quot;name&quot;:&quot;Tag&quot;,&quot;desc&quot;:&quot;Enter Tag&quot;,&quot;value&quot;:&quot;test@script&quot;,&quot;valueSub&quot;:&quot;test&quot;,&quot;type&quot;:0},{&quot;variableName&quot;:&quot;colorbase&quot;,&quot;name&quot;:&quot;Background color&quot;,&quot;desc&quot;:&quot;Set color&quot;,&quot;value&quot;:&quot;#cccccc&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4},{&quot;variableName&quot;:&quot;colorstroke&quot;,&quot;name&quot;:&quot;Stroke color&quot;,&quot;desc&quot;:&quot;Set color&quot;,&quot;value&quot;:&quot;#4d4d4d&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4},{&quot;variableName&quot;:&quot;colortxt&quot;,&quot;name&quot;:&quot;Text color&quot;,&quot;desc&quot;:&quot;Set color&quot;,&quot;value&quot;:&quot;#FFFFFF&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4},{&quot;variableName&quot;:&quot;fs&quot;,&quot;name&quot;:&quot;Text size &quot;,&quot;desc&quot;:&quot;Set size&quot;,&quot;value&quot;:&quot;36&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:2},{&quot;variableName&quot;:&quot;format&quot;,&quot;name&quot;:&quot;Format&quot;,&quot;desc&quot;:&quot;Set format&quot;,&quot;value&quot;:&quot;##.#&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:1},{&quot;variableName&quot;:&quot;unit&quot;,&quot;name&quot;:&quot;Unit&quot;,&quot;desc&quot;:&quot;Set unit&quot;,&quot;value&quot;:&quot;бар&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:1}]}" id="Comp00000002">
+<rect x="919.2552003860471" y="706.0000001467191" width="209.56600189208987" inkscape:vypln="colorbase,100" style="stroke-linejoin:miter;stroke-dasharray:none;stroke-width:1;fill:#cccccc;stroke:#4d4d4d;stroke-linecap:butt;" rx="5" ry="5" id="00000002rect0001" height="74.57499694824219" inkscape:vyplnStroke="colorstroke"/>
+<path clip-rule="evenodd" id="00000002path0003" d="M255.016,113.167v32.735  c-29.606,7.351-68.584,11.178-104.791,11.178c-40.858,0-73.187-3.827-104.791-11.916v-31.997c0-1.098,0.898-1.996,1.996-1.996  h205.59C254.117,111.171,255.016,112.069,255.016,113.167z" style="fill:#FFFFFF;fill-opacity:0.1;" fill-rule="evenodd" transform="matrix(1 0 0 1 873.8212280273438 595.25634765625)"/>
+<text x="181.5999999999999" y="55.199999999999974" transform="matrix(1 0 0 1 912.0846557617188 701.9027709960938)" inkscape:vypln="colortxt,100" inkscape:textik="unit" style="font-weight:bold;text-anchor:middle;font-size:12pt;font-family:&apos;Ubuntu&apos;;font-style:normal;fill:#FFFFFF;stroke:none;" id="00000002text0002">
+бар</text>
+<g inkscape:groupmode="layer" id="g0002" style="opacity:1.0;display:inline;" inkscape:componentalign="cc" inkscape:layerlabel="text">
+<text transform="matrix(1 0 0 1 1023.50830078125 757.2947998046875)" inkscape:lblTemplate="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;Value&quot;,&quot;param&quot;:&quot;Decimal&quot;,&quot;stringType&quot;:&quot;10;0;Automatic&quot;}" inkscape:vypln="colortxt,100" inkscape:textik="format" style="font-weight:normal;text-anchor:middle;font-size:36pt;font-family:&apos;DS-Digital&apos;;font-style:italic;fill:#FFFFFF;" inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;test@script&quot;,&quot;alias&quot;:&quot;test&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;Value&quot;,&quot;param&quot;:&quot;Decimal&quot;,&quot;stringType&quot;:&quot;10;0;Automatic&quot;},{&quot;attr&quot;:&quot;Component&quot;,&quot;parentID&quot;:&quot;Comp00000002&quot;}" id="00000002text0001" inkscape:textFontSize="fs">
+##.#</text>
+</g>
+<path d="M0 0L10 0L10 10L0 10L0 0Z" id="00000002positionCheckElementNoSeL" style="display:none" transform="matrix(1 0 0 1 918.7552490234375 705.5)"/>
+</g>
+<g id="Comp00000003" inkscape:componentData="{&quot;name&quot;:&quot;Component Name&quot;,&quot;desc&quot;:&quot;Component Description&quot;,&quot;author&quot;:&quot;mySCADA Team&quot;,&quot;uniqueID&quot;:&quot;3295b6268f&quot;,&quot;MasterID&quot;:&quot;987172571&quot;,&quot;list&quot;:[{&quot;variableName&quot;:&quot;tag&quot;,&quot;name&quot;:&quot;Tag&quot;,&quot;desc&quot;:&quot;Enter Tag&quot;,&quot;value&quot;:&quot;test@script&quot;,&quot;valueSub&quot;:&quot;test&quot;,&quot;type&quot;:0},{&quot;variableName&quot;:&quot;colorbase&quot;,&quot;name&quot;:&quot;Background color&quot;,&quot;desc&quot;:&quot;Set color&quot;,&quot;value&quot;:&quot;#cccccc&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4},{&quot;variableName&quot;:&quot;colorstroke&quot;,&quot;name&quot;:&quot;Stroke color&quot;,&quot;desc&quot;:&quot;Set color&quot;,&quot;value&quot;:&quot;#4d4d4d&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4},{&quot;variableName&quot;:&quot;colortxt&quot;,&quot;name&quot;:&quot;Text color&quot;,&quot;desc&quot;:&quot;Set color&quot;,&quot;value&quot;:&quot;#FFFFFF&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4},{&quot;variableName&quot;:&quot;fs&quot;,&quot;name&quot;:&quot;Text size &quot;,&quot;desc&quot;:&quot;Set size&quot;,&quot;value&quot;:&quot;36&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:2},{&quot;variableName&quot;:&quot;format&quot;,&quot;name&quot;:&quot;Format&quot;,&quot;desc&quot;:&quot;Set format&quot;,&quot;value&quot;:&quot;##.#&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:1},{&quot;variableName&quot;:&quot;unit&quot;,&quot;name&quot;:&quot;Unit&quot;,&quot;desc&quot;:&quot;Set unit&quot;,&quot;value&quot;:&quot;бар&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:1}]}" inkscape:componentSize="812.0277709960938;272.5555419921875;209.58203125;74.57501220703125">
+<rect x="812.0277786254882" y="272.55555570227466" width="209.56600189208987" inkscape:vypln="colorbase,100" style="stroke-linejoin:miter;stroke-dasharray:none;stroke-width:1;fill:#cccccc;stroke:#4d4d4d;stroke-linecap:butt;" rx="5" ry="5" id="00000003rect0001" height="74.57499694824219" inkscape:vyplnStroke="colorstroke"/>
+<path clip-rule="evenodd" id="00000003path0003" d="M255.016,113.167v32.735  c-29.606,7.351-68.584,11.178-104.791,11.178c-40.858,0-73.187-3.827-104.791-11.916v-31.997c0-1.098,0.898-1.996,1.996-1.996  h205.59C254.117,111.171,255.016,112.069,255.016,113.167z" style="fill:#FFFFFF;fill-opacity:0.1;" fill-rule="evenodd" transform="matrix(1 0 0 1 766.5938110351562 161.81190490722656)"/>
+<text x="181.5999999999999" y="55.199999999999974" transform="matrix(1 0 0 1 804.8572387695312 268.45831298828125)" inkscape:vypln="colortxt,100" inkscape:textik="unit" style="font-weight:bold;text-anchor:middle;font-size:12pt;font-family:&apos;Ubuntu&apos;;font-style:normal;fill:#FFFFFF;stroke:none;" id="00000003text0002">
+бар</text>
+<g inkscape:groupmode="layer" id="g0003" style="opacity:1.0;display:inline;" inkscape:componentalign="cc" inkscape:layerlabel="text">
+<text transform="matrix(1 0 0 1 916.2808227539062 323.8503112792969)" inkscape:lblTemplate="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;Value&quot;,&quot;param&quot;:&quot;Decimal&quot;,&quot;stringType&quot;:&quot;10;0;Automatic&quot;}" inkscape:vypln="colortxt,100" inkscape:textik="format" style="font-weight:normal;text-anchor:middle;font-size:36pt;font-family:&apos;DS-Digital&apos;;font-style:italic;fill:#FFFFFF;" inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;test@script&quot;,&quot;alias&quot;:&quot;test&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;Value&quot;,&quot;param&quot;:&quot;Decimal&quot;,&quot;stringType&quot;:&quot;10;0;Automatic&quot;},{&quot;attr&quot;:&quot;Component&quot;,&quot;parentID&quot;:&quot;Comp00000003&quot;}" id="00000003text0001" inkscape:textFontSize="fs">
+##.#</text>
+</g>
+<path d="M0 0L10 0L10 10L0 10L0 0Z" id="00000003positionCheckElementNoSeL" style="display:none" transform="matrix(1 0 0 1 811.52783203125 272.0555419921875)"/>
+</g>
+<text x="31" y="76" id="text0004" style="writing-mode:lr-tb;font-weight:normal;font-size:12pt;font-family:&apos;Tahoma&apos;;font-style:normal;fill:#000000;stroke:none;" transform="matrix(1 0 0 1 742.8871459960936 238.63993665907117)">
+Min</text>
+<text x="31" y="76" id="text0005" style="writing-mode:lr-tb;font-weight:normal;font-size:12pt;font-family:&apos;Tahoma&apos;;font-style:normal;fill:#000000;stroke:none;" transform="matrix(1 0 0 1 742.8871459960936 323.63993665907117)">
+Max</text>
+<text x="31" y="76" id="text0006" style="writing-mode:lr-tb;font-weight:normal;font-size:12pt;font-family:&apos;Tahoma&apos;;font-style:normal;fill:#000000;stroke:none;" transform="matrix(1 0 0 1 742.8871459960936 406.63993665907117)">
++/-</text>
+<g id="Comp00000004" inkscape:componentData="{&quot;name&quot;:&quot;Component Name&quot;,&quot;desc&quot;:&quot;Component Description&quot;,&quot;author&quot;:&quot;mySCADA Team&quot;,&quot;uniqueID&quot;:&quot;3295b6268f&quot;,&quot;MasterID&quot;:&quot;987172571&quot;,&quot;list&quot;:[{&quot;variableName&quot;:&quot;tag&quot;,&quot;name&quot;:&quot;Tag&quot;,&quot;desc&quot;:&quot;Enter Tag&quot;,&quot;value&quot;:&quot;test@script&quot;,&quot;valueSub&quot;:&quot;test&quot;,&quot;type&quot;:0},{&quot;variableName&quot;:&quot;colorbase&quot;,&quot;name&quot;:&quot;Background color&quot;,&quot;desc&quot;:&quot;Set color&quot;,&quot;value&quot;:&quot;#cccccc&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4},{&quot;variableName&quot;:&quot;colorstroke&quot;,&quot;name&quot;:&quot;Stroke color&quot;,&quot;desc&quot;:&quot;Set color&quot;,&quot;value&quot;:&quot;#4d4d4d&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4},{&quot;variableName&quot;:&quot;colortxt&quot;,&quot;name&quot;:&quot;Text color&quot;,&quot;desc&quot;:&quot;Set color&quot;,&quot;value&quot;:&quot;#FFFFFF&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4},{&quot;variableName&quot;:&quot;fs&quot;,&quot;name&quot;:&quot;Text size &quot;,&quot;desc&quot;:&quot;Set size&quot;,&quot;value&quot;:&quot;36&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:2},{&quot;variableName&quot;:&quot;format&quot;,&quot;name&quot;:&quot;Format&quot;,&quot;desc&quot;:&quot;Set format&quot;,&quot;value&quot;:&quot;##.#&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:1},{&quot;variableName&quot;:&quot;unit&quot;,&quot;name&quot;:&quot;Unit&quot;,&quot;desc&quot;:&quot;Set unit&quot;,&quot;value&quot;:&quot;бар&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:1}]}" inkscape:componentSize="812.0277709960938;356.6571044921875;209.58203125;74.57501220703125">
+<rect x="812.0277786254882" y="356.65711820227466" width="209.56600189208987" inkscape:vypln="colorbase,100" style="stroke-linejoin:miter;stroke-dasharray:none;stroke-width:1;fill:#cccccc;stroke:#4d4d4d;stroke-linecap:butt;" rx="5" ry="5" id="00000004rect0001" height="74.57499694824219" inkscape:vyplnStroke="colorstroke"/>
+<path clip-rule="evenodd" id="00000004path0003" d="M255.016,113.167v32.735  c-29.606,7.351-68.584,11.178-104.791,11.178c-40.858,0-73.187-3.827-104.791-11.916v-31.997c0-1.098,0.898-1.996,1.996-1.996  h205.59C254.117,111.171,255.016,112.069,255.016,113.167z" style="fill:#FFFFFF;fill-opacity:0.1;" fill-rule="evenodd" transform="matrix(1 0 0 1 766.5938110351562 245.91346740722656)"/>
+<text x="181.5999999999999" y="55.199999999999974" transform="matrix(1 0 0 1 804.8572387695312 352.55987548828125)" inkscape:vypln="colortxt,100" inkscape:textik="unit" style="font-weight:bold;text-anchor:middle;font-size:12pt;font-family:&apos;Ubuntu&apos;;font-style:normal;fill:#FFFFFF;stroke:none;" id="00000004text0002">
+бар</text>
+<g inkscape:groupmode="layer" id="g0004" style="opacity:1.0;display:inline;" inkscape:componentalign="cc" inkscape:layerlabel="text">
+<text transform="matrix(1 0 0 1 916.2808227539062 407.951904296875)" inkscape:lblTemplate="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;Value&quot;,&quot;param&quot;:&quot;Decimal&quot;,&quot;stringType&quot;:&quot;10;0;Automatic&quot;}" inkscape:vypln="colortxt,100" inkscape:textik="format" style="font-weight:normal;text-anchor:middle;font-size:36pt;font-family:&apos;DS-Digital&apos;;font-style:italic;fill:#FFFFFF;" inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;test@script&quot;,&quot;alias&quot;:&quot;test&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;Value&quot;,&quot;param&quot;:&quot;Decimal&quot;,&quot;stringType&quot;:&quot;10;0;Automatic&quot;},{&quot;attr&quot;:&quot;Component&quot;,&quot;parentID&quot;:&quot;Comp00000004&quot;}" id="00000004text0001" inkscape:textFontSize="fs">
+##.#</text>
+</g>
+<path d="M0 0L10 0L10 10L0 10L0 0Z" id="00000004positionCheckElementNoSeL" style="display:none" transform="matrix(1 0 0 1 811.52783203125 356.1571044921875)"/>
+</g>
+<g id="Comp00000005" inkscape:componentData="{&quot;name&quot;:&quot;Component Name&quot;,&quot;desc&quot;:&quot;Component Description&quot;,&quot;author&quot;:&quot;mySCADA Team&quot;,&quot;uniqueID&quot;:&quot;3295b6268f&quot;,&quot;MasterID&quot;:&quot;987172571&quot;,&quot;list&quot;:[{&quot;variableName&quot;:&quot;tag&quot;,&quot;name&quot;:&quot;Tag&quot;,&quot;desc&quot;:&quot;Enter Tag&quot;,&quot;value&quot;:&quot;test@script&quot;,&quot;valueSub&quot;:&quot;test&quot;,&quot;type&quot;:0},{&quot;variableName&quot;:&quot;colorbase&quot;,&quot;name&quot;:&quot;Background color&quot;,&quot;desc&quot;:&quot;Set color&quot;,&quot;value&quot;:&quot;#cccccc&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4},{&quot;variableName&quot;:&quot;colorstroke&quot;,&quot;name&quot;:&quot;Stroke color&quot;,&quot;desc&quot;:&quot;Set color&quot;,&quot;value&quot;:&quot;#4d4d4d&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4},{&quot;variableName&quot;:&quot;colortxt&quot;,&quot;name&quot;:&quot;Text color&quot;,&quot;desc&quot;:&quot;Set color&quot;,&quot;value&quot;:&quot;#FFFFFF&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4},{&quot;variableName&quot;:&quot;fs&quot;,&quot;name&quot;:&quot;Text size &quot;,&quot;desc&quot;:&quot;Set size&quot;,&quot;value&quot;:&quot;36&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:2},{&quot;variableName&quot;:&quot;format&quot;,&quot;name&quot;:&quot;Format&quot;,&quot;desc&quot;:&quot;Set format&quot;,&quot;value&quot;:&quot;##.#&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:1},{&quot;variableName&quot;:&quot;unit&quot;,&quot;name&quot;:&quot;Unit&quot;,&quot;desc&quot;:&quot;Set unit&quot;,&quot;value&quot;:&quot;бар&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:1}]}" inkscape:componentSize="812.0277709960938;440.7586669921875;209.58203125;74.57501220703125">
+<rect x="812.0277786254882" y="440.75868070227466" width="209.56600189208987" inkscape:vypln="colorbase,100" style="stroke-linejoin:miter;stroke-dasharray:none;stroke-width:1;fill:#cccccc;stroke:#4d4d4d;stroke-linecap:butt;" rx="5" ry="5" id="00000005rect0001" height="74.57499694824219" inkscape:vyplnStroke="colorstroke"/>
+<path clip-rule="evenodd" id="00000005path0003" d="M255.016,113.167v32.735  c-29.606,7.351-68.584,11.178-104.791,11.178c-40.858,0-73.187-3.827-104.791-11.916v-31.997c0-1.098,0.898-1.996,1.996-1.996  h205.59C254.117,111.171,255.016,112.069,255.016,113.167z" style="fill:#FFFFFF;fill-opacity:0.1;" fill-rule="evenodd" transform="matrix(1 0 0 1 766.5938110351562 330.0150146484375)"/>
+<text x="181.5999999999999" y="55.199999999999974" transform="matrix(1 0 0 1 804.8572387695312 436.66143798828125)" inkscape:vypln="colortxt,100" inkscape:textik="unit" style="font-weight:bold;text-anchor:middle;font-size:12pt;font-family:&apos;Ubuntu&apos;;font-style:normal;fill:#FFFFFF;stroke:none;" id="00000005text0002">
+бар</text>
+<g inkscape:groupmode="layer" id="g0005" style="opacity:1.0;display:inline;" inkscape:componentalign="cc" inkscape:layerlabel="text">
+<text transform="matrix(1 0 0 1 916.2808227539062 492.053466796875)" inkscape:lblTemplate="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;Value&quot;,&quot;param&quot;:&quot;Decimal&quot;,&quot;stringType&quot;:&quot;10;0;Automatic&quot;}" inkscape:vypln="colortxt,100" inkscape:textik="format" style="font-weight:normal;text-anchor:middle;font-size:36pt;font-family:&apos;DS-Digital&apos;;font-style:italic;fill:#FFFFFF;" inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;test@script&quot;,&quot;alias&quot;:&quot;test&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;Value&quot;,&quot;param&quot;:&quot;Decimal&quot;,&quot;stringType&quot;:&quot;10;0;Automatic&quot;},{&quot;attr&quot;:&quot;Component&quot;,&quot;parentID&quot;:&quot;Comp00000005&quot;}" id="00000005text0001" inkscape:textFontSize="fs">
+##.#</text>
+</g>
+<path d="M0 0L10 0L10 10L0 10L0 0Z" id="00000005positionCheckElementNoSeL" style="display:none" transform="matrix(1 0 0 1 811.52783203125 440.2586669921875)"/>
+</g>
+<g inkscape:componentSize="901.5691528320312;42.32148742675781;73.47149658203125;88.29310607910156" inkscape:componentData="{&quot;name&quot;:&quot;Component Name&quot;,&quot;desc&quot;:&quot;Component Description&quot;,&quot;author&quot;:&quot;mySCADA Team&quot;,&quot;uniqueID&quot;:&quot;f5d1bafc7f&quot;,&quot;MasterID&quot;:&quot;  1200551&quot;,&quot;list&quot;:[{&quot;variableName&quot;:&quot;tag&quot;,&quot;name&quot;:&quot;Tag&quot;,&quot;desc&quot;:&quot;Enter Tag&quot;,&quot;value&quot;:&quot;test@script&quot;,&quot;valueSub&quot;:&quot;test&quot;,&quot;type&quot;:0},{&quot;variableName&quot;:&quot;txt&quot;,&quot;name&quot;:&quot;Text&quot;,&quot;desc&quot;:&quot;Edit text&quot;,&quot;value&quot;:&quot;text&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:1},{&quot;variableName&quot;:&quot;showtxt&quot;,&quot;name&quot;:&quot;Show text&quot;,&quot;desc&quot;:&quot;show text&quot;,&quot;value&quot;:&quot;0&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:5},{&quot;variableName&quot;:&quot;combo&quot;,&quot;name&quot;:&quot;Light color&quot;,&quot;desc&quot;:&quot;Choose color&quot;,&quot;value&quot;:&quot;3;0=Green,1=Blue,2=Yellow,3=Red&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:7},{&quot;variableName&quot;:&quot;show&quot;,&quot;name&quot;:&quot;Background base&quot;,&quot;desc&quot;:&quot;show/hide&quot;,&quot;value&quot;:&quot;0&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:5}]}" id="Comp67247551">
+<g style="visibility:hidden;" id="67247551podklad" inkscape:opac="show;1;1">
+<g>
+<path id="67247551XMLID_3_" d="M363.137,326h-127c-4.971,0-9.137,3.779-9.137,8.75l5,99c0,0.316,0.086,0.629,0.117,0.937    c1.027,36.382,30.855,65.563,67.485,65.563s66.372-29.182,67.399-65.563c0.032-0.308-0.002-0.62-0.002-0.937l5-99    C372,329.779,368.107,326,363.137,326z" style="fill:#58595B;" transform="matrix(0.5067036151885986 0 0 0.5067036151885986 786.5474243164062 -122.8638916015625)"/>
+</g>
+<text inkscape:textik="txt" id="67247551text0001" style="visibility:hidden;text-anchor:middle;font-size:12pt;font-family:&apos;Ubuntu-Bold&apos;;fill:#FFFFFF;" inkscape:opac="showtxt;1;1" transform="matrix(0.5067036151885986 0 0 0.5067036151885986 938.30517578125 53.80693435668945)">
+text</text>
+</g>
+<g inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;tag&quot;:&quot;test@script&quot;,&quot;alias&quot;:&quot;test&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;0&quot;,&quot;max&quot;:&quot;0&quot;},{&quot;attr&quot;:&quot;Component&quot;,&quot;parentID&quot;:&quot;Comp67247551&quot;}" id="67247551XMLID_2_" inkscape:lblTemplate="{&quot;attr&quot;:&quot;opac&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;0&quot;,&quot;max&quot;:&quot;0&quot;}">
+<linearGradient x1="299.5" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" y1="495.25" x2="299.5" y2="368.25" xlink:type="simple" xlink:actuate="onLoad" id="67247551XMLID_54_" xlink:show="other">
+<stop offset="0" style="stop-color:#000000;stop-opacity:0.2"/>
+<stop offset="0.1413" style="stop-color:#000000;stop-opacity:0.1788"/>
+<stop offset="1" style="stop-color:#000000;stop-opacity:0.05"/>
+</linearGradient>
+<path id="67247551XMLID_35_" d="M299.5,371.25c33.414,0,60.5,27.086,60.5,60.5   c-0.001,33.412-27.088,60.499-60.5,60.5c-33.413-0.001-60.5-27.088-60.5-60.5C239.001,398.336,266.086,371.25,299.5,371.25    M299.5,368.25c-35.013,0-63.499,28.486-63.5,63.5c0,35.013,28.486,63.499,63.5,63.5c35.013-0.001,63.499-28.487,63.5-63.5   C363,396.736,334.514,368.25,299.5,368.25L299.5,368.25z" style="fill:url(#67247551XMLID_54_);" transform="matrix(0.5067036151885986 0 0 0.5067036151885986 786.5474243164062 -122.8638916015625)"/>
+<radialGradient gradientTransform="matrix(0.5067036151885986,0.0,0.0,0.5067036151885986,749.167236328125,-223.1387481689453)" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" xlink:type="simple" cx="373.2715" r="60.5" xlink:actuate="onLoad" id="67247551XMLID_55_" cy="629.6465" xlink:show="other">
+<stop offset="0" style="stop-color:#B4B5B8"/>
+<stop offset="0.07" style="stop-color:#EFF0F2"/>
+<stop offset="0.13" style="stop-color:#E2E2E2"/>
+<stop offset="0.18" style="stop-color:#F6F7F9"/>
+<stop offset="0.26" style="stop-color:#DFDFDF"/>
+<stop offset="0.35" style="stop-color:#E5E6E7"/>
+<stop offset="0.46" style="stop-color:#5B5B5B"/>
+<stop offset="0.56" style="stop-color:#E5E6E7"/>
+<stop offset="0.75" style="stop-color:#505562"/>
+<stop offset="0.93" style="stop-color:#E6E7E8"/>
+<stop offset="1" style="stop-color:#B4B5B8"/>
+</radialGradient>
+<ellipse rx="30.65556818690618" ry="30.65556818690624" id="67247551XMLID_40_" style="fill:url(#67247551XMLID_55_);" cx="938.3051990716632" cy="95.90538305622647"/>
+<g>
+<g id="67247551XMLID_6_">
+<ellipse rx="26.154013347691716" ry="26.15401334769175" id="67247551XMLID_8_" style="fill:#FFFFFF;fill-opacity:0.5;" cx="938.4734246689864" cy="96.91879026901677"/>
+<ellipse rx="26.154013347691716" ry="26.154013347691777" id="67247551XMLID_9_" style="fill:#6D6E71;" cx="938.4734246689864" cy="95.90538305622647"/>
+</g>
+<radialGradient gradientTransform="matrix(0.5067036151885986,0.0,0.0,0.5067036151885986,786.5474243164062,-122.8638916015625)" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" xlink:type="simple" cx="299.8311" r="51.6157" xlink:actuate="onLoad" id="67247551XMLID_56_" cy="431.75" xlink:show="other">
+<stop offset="0" style="stop-color:#3EDA88;stop-opacity:1"/>
+<stop offset="0" style="stop-color:#40DA89;stop-opacity:0.5927"/>
+<stop offset="0" style="stop-color:#47DC8E;stop-opacity:0.4088"/>
+<stop offset="0" style="stop-color:#54DE95;stop-opacity:0.2698"/>
+<stop offset="0" style="stop-color:#66E2A0;stop-opacity:0.1542"/>
+<stop offset="0" style="stop-color:#7DE6AF;stop-opacity:0.0528"/>
+<stop offset="0" style="stop-color:#7EE6AF;stop-opacity:0.05"/>
+<stop offset="0.1071" style="stop-color:#7CE2AC;stop-opacity:0.0857"/>
+<stop offset="0.207" style="stop-color:#76D7A4;stop-opacity:0.119"/>
+<stop offset="0.3042" style="stop-color:#6BC495;stop-opacity:0.1514"/>
+<stop offset="0.3996" style="stop-color:#5DA981;stop-opacity:0.1832"/>
+<stop offset="0.4938" style="stop-color:#4A8767;stop-opacity:0.2146"/>
+<stop offset="0.5871" style="stop-color:#335D47;stop-opacity:0.2457"/>
+<stop offset="0.6778" style="stop-color:#182C22;stop-opacity:0.2759"/>
+<stop offset="0.75" style="stop-color:#000000;stop-opacity:0.3"/>
+<stop offset="1" style="stop-color:#000000;stop-opacity:0.45"/>
+</radialGradient>
+<ellipse rx="26.154013347691716" ry="26.154013347691777" id="67247551XMLID_10_" style="fill:url(#67247551XMLID_56_);opacity:0.5;" cx="938.4734246689864" cy="95.90538305622647"/>
+<ellipse style="fill:none;stroke:#231F20;" rx="26.154013347691716" cx="938.4734246689864" ry="26.154013347691777" id="67247551XMLID_11_" cy="95.90538305622647" stroke-miterlimit="10"/>
+</g>
+<linearGradient x1="299.8311" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" y1="443.3135" x2="299.8311" y2="382.3438" xlink:type="simple" xlink:actuate="onLoad" id="67247551XMLID_57_" xlink:show="other">
+<stop offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
+<stop offset="1" style="stop-color:#FFFFFF;stop-opacity:0.65"/>
+</linearGradient>
+<path id="67247551XMLID_4_" d="M348.784,431.297c0,27.036-21.917,0-48.953,0c-27.035,0-48.953,27.036-48.953,0   s21.918-48.953,48.953-48.953C326.867,382.344,348.784,404.261,348.784,431.297z" style="fill:url(#67247551XMLID_57_);fill-opacity:0.7;" transform="matrix(0.5067036151885986 0 0 0.5067036151885986 786.5474243164062 -122.8638916015625)"/>
+</g>
+<g inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;tag&quot;:&quot;test@script&quot;,&quot;alias&quot;:&quot;test&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;1.0&quot;,&quot;max&quot;:&quot;1.0&quot;},{&quot;attr&quot;:&quot;Component&quot;,&quot;parentID&quot;:&quot;Comp67247551&quot;}" id="67247551g0001" inkscape:lblTemplate="{&quot;attr&quot;:&quot;opac&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;1.0&quot;,&quot;max&quot;:&quot;1.0&quot;}">
+<g style="visibility:hidden;" id="67247551XMLID_5_" inkscape:opac="combo;0;0">
+<linearGradient x1="299.5" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" y1="495.25" x2="299.5" y2="368.25" xlink:type="simple" xlink:actuate="onLoad" id="67247551XMLID_58_" xlink:show="other">
+<stop offset="0" style="stop-color:#000000;stop-opacity:0.2"/>
+<stop offset="0.1413" style="stop-color:#000000;stop-opacity:0.1788"/>
+<stop offset="1" style="stop-color:#000000;stop-opacity:0.05"/>
+</linearGradient>
+<path id="67247551XMLID_38_" d="M299.5,371.25c33.414,0,60.5,27.087,60.5,60.5s-27.086,60.5-60.5,60.5   c-33.412,0-60.5-27.087-60.5-60.5S266.088,371.25,299.5,371.25 M299.5,368.25c-35.014,0-63.5,28.486-63.5,63.5   s28.486,63.5,63.5,63.5s63.5-28.486,63.5-63.5S334.514,368.25,299.5,368.25L299.5,368.25z" style="fill:url(#67247551XMLID_58_);" transform="matrix(0.5067036151885986 0 0 0.5067036151885986 786.5474243164062 -122.8638916015625)"/>
+<radialGradient gradientTransform="matrix(0.5067036151885986,0.0,0.0,0.5067036151885986,786.5474243164062,-122.8638916015625)" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" xlink:type="simple" cx="299.5" r="60.5" xlink:actuate="onLoad" id="67247551XMLID_59_" cy="431.75" xlink:show="other">
+<stop offset="0" style="stop-color:#B4B5B8"/>
+<stop offset="0.07" style="stop-color:#EFF0F2"/>
+<stop offset="0.13" style="stop-color:#E2E2E2"/>
+<stop offset="0.18" style="stop-color:#F6F7F9"/>
+<stop offset="0.26" style="stop-color:#DFDFDF"/>
+<stop offset="0.35" style="stop-color:#E5E6E7"/>
+<stop offset="0.46" style="stop-color:#5B5B5B"/>
+<stop offset="0.56" style="stop-color:#E5E6E7"/>
+<stop offset="0.75" style="stop-color:#505562"/>
+<stop offset="0.85" style="stop-color:#7EE6AF"/>
+<stop offset="0.92" style="stop-color:#9FE6C1"/>
+<stop offset="0.95" style="stop-color:#E6E7E8"/>
+<stop offset="1" style="stop-color:#B4B5B8"/>
+</radialGradient>
+<ellipse rx="30.65556818690618" ry="30.65556818690624" id="67247551XMLID_51_" style="fill:url(#67247551XMLID_59_);" cx="938.3051990716632" cy="95.90538305622647"/>
+<g id="67247551XMLID_30_">
+<ellipse rx="26.154013347691716" ry="26.15401334769175" id="67247551XMLID_33_" style="fill:#FFFFFF;fill-opacity:0.5;" cx="938.3051990716633" cy="96.91879026901677"/>
+<linearGradient gradientTransform="matrix(0.5067036151885986,0.0,0.0,0.5067036151885986,786.5474243164062,-122.8638916015625)" x1="299.501" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" y1="483.3652" x2="299.501" y2="380.1348" xlink:type="simple" xlink:actuate="onLoad" id="67247551XMLID_60_" xlink:show="other">
+<stop offset="0" style="stop-color:#2BB673"/>
+<stop offset="1" style="stop-color:#37D984"/>
+</linearGradient>
+<ellipse rx="26.154013347691716" ry="26.154013347691777" id="67247551XMLID_31_" style="fill:url(#67247551XMLID_60_);" cx="938.3051990716633" cy="95.90538305622647"/>
+<radialGradient gradientTransform="matrix(0.5067036151885986,0.0,0.0,0.5067036151885986,786.5474243164062,-122.8638916015625)" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" xlink:type="simple" cx="299.501" r="51.6152" xlink:actuate="onLoad" id="67247551XMLID_61_" cy="431.75" xlink:show="other">
+<stop offset="0" style="stop-color:#3EDA88;stop-opacity:1"/>
+<stop offset="0" style="stop-color:#40DA89;stop-opacity:0.8071"/>
+<stop offset="0" style="stop-color:#47DC8E;stop-opacity:0.7199"/>
+<stop offset="0" style="stop-color:#54DE95;stop-opacity:0.6541"/>
+<stop offset="0" style="stop-color:#66E2A0;stop-opacity:0.5993"/>
+<stop offset="0" style="stop-color:#7DE6AF;stop-opacity:0.5513"/>
+<stop offset="0" style="stop-color:#7EE6AF;stop-opacity:0.55"/>
+<stop offset="0.1108" style="stop-color:#82E7B1;stop-opacity:0.4743"/>
+<stop offset="0.2159" style="stop-color:#8DE9B8;stop-opacity:0.4024"/>
+<stop offset="0.3188" style="stop-color:#A0EDC4;stop-opacity:0.3321"/>
+<stop offset="0.4203" style="stop-color:#BBF2D5;stop-opacity:0.2628"/>
+<stop offset="0.5198" style="stop-color:#DEF9EA;stop-opacity:0.1948"/>
+<stop offset="0.6" style="stop-color:#FFFFFF;stop-opacity:0.14"/>
+<stop offset="0.6206" style="stop-color:#F9F9F9;stop-opacity:0.1438"/>
+<stop offset="0.6478" style="stop-color:#E9E9E9;stop-opacity:0.1488"/>
+<stop offset="0.6785" style="stop-color:#CDCDCD;stop-opacity:0.1544"/>
+<stop offset="0.7119" style="stop-color:#A7A7A7;stop-opacity:0.1606"/>
+<stop offset="0.7475" style="stop-color:#777777;stop-opacity:0.1671"/>
+<stop offset="0.7842" style="stop-color:#3C3C3C;stop-opacity:0.1738"/>
+<stop offset="0.8177" style="stop-color:#000000;stop-opacity:0.18"/>
+<stop offset="1" style="stop-color:#000000;stop-opacity:0.7"/>
+</radialGradient>
+<ellipse rx="26.154013347691716" ry="26.154013347691777" id="67247551XMLID_29_" style="fill:url(#67247551XMLID_61_);opacity:0.5;" cx="938.3051990716633" cy="95.90538305622647"/>
+</g>
+<ellipse style="fill:none;stroke:#006838;" rx="26.154013347691716" cx="938.3051990716633" ry="26.154013347691777" id="67247551XMLID_28_" cy="95.90538305622647" stroke-miterlimit="10"/>
+<linearGradient x1="299.5" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" y1="443.3135" x2="299.5" y2="382.3438" xlink:type="simple" xlink:actuate="onLoad" id="67247551XMLID_62_" xlink:show="other">
+<stop offset="0" style="stop-color:#FFFFFF;stop-opacity:0.05"/>
+<stop offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<path id="67247551XMLID_17_" d="M348.453,431.297c0,27.036-21.917,0-48.953,0s-48.953,27.036-48.953,0   s21.917-48.953,48.953-48.953S348.453,404.261,348.453,431.297z" style="fill:url(#67247551XMLID_62_);fill-opacity:0.7;" transform="matrix(0.5067036151885986 0 0 0.5067036151885986 786.5474243164062 -122.8638916015625)"/>
+</g>
+<g style="visibility:hidden;" id="67247551XMLID_12_" inkscape:opac="combo;1;1">
+<linearGradient x1="299.5" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" y1="495.25" x2="299.5" y2="368.25" xlink:type="simple" xlink:actuate="onLoad" id="67247551XMLID_63_" xlink:show="other">
+<stop offset="0" style="stop-color:#000000;stop-opacity:0.2"/>
+<stop offset="0.1413" style="stop-color:#000000;stop-opacity:0.1788"/>
+<stop offset="1" style="stop-color:#000000;stop-opacity:0.05"/>
+</linearGradient>
+<path id="67247551XMLID_27_" d="M299.5,371.25c33.414,0,60.5,27.087,60.5,60.5s-27.086,60.5-60.5,60.5   c-33.412,0-60.5-27.087-60.5-60.5S266.088,371.25,299.5,371.25 M299.5,368.25c-35.014,0-63.5,28.486-63.5,63.5   s28.486,63.5,63.5,63.5s63.5-28.486,63.5-63.5S334.514,368.25,299.5,368.25L299.5,368.25z" style="fill:url(#67247551XMLID_63_);" transform="matrix(0.5067036151885986 0 0 0.5067036151885986 786.5474243164062 -122.8638916015625)"/>
+<radialGradient gradientTransform="matrix(0.5067036151885986,0.0,0.0,0.5067036151885986,786.5474243164062,-122.8638916015625)" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" xlink:type="simple" cx="299.5" r="60.5" xlink:actuate="onLoad" id="67247551XMLID_64_" cy="431.75" xlink:show="other">
+<stop offset="0" style="stop-color:#B4B5B8"/>
+<stop offset="0.07" style="stop-color:#EFF0F2"/>
+<stop offset="0.13" style="stop-color:#E2E2E2"/>
+<stop offset="0.18" style="stop-color:#F6F7F9"/>
+<stop offset="0.26" style="stop-color:#DFDFDF"/>
+<stop offset="0.35" style="stop-color:#E5E6E7"/>
+<stop offset="0.46" style="stop-color:#5B5B5B"/>
+<stop offset="0.56" style="stop-color:#E5E6E7"/>
+<stop offset="0.75" style="stop-color:#505562"/>
+<stop offset="0.85" style="stop-color:#AAAFFF"/>
+<stop offset="0.92" style="stop-color:#BFDAFF"/>
+<stop offset="0.95" style="stop-color:#E6E7E8"/>
+<stop offset="1" style="stop-color:#B4B5B8"/>
+</radialGradient>
+<ellipse rx="30.65556818690618" ry="30.65556818690624" id="67247551XMLID_26_" style="fill:url(#67247551XMLID_64_);" cx="938.3051990716632" cy="95.90538305622647"/>
+<g id="67247551XMLID_15_">
+<ellipse rx="26.154013347691716" ry="26.15401334769175" id="67247551XMLID_22_" style="fill:#FFFFFF;fill-opacity:0.5;" cx="938.3051990716633" cy="96.91879026901677"/>
+<linearGradient gradientTransform="matrix(0.5067036151885986,0.0,0.0,0.5067036151885986,786.5474243164062,-122.8638916015625)" x1="299.501" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" y1="483.3652" x2="299.501" y2="380.1348" xlink:type="simple" xlink:actuate="onLoad" id="67247551XMLID_65_" xlink:show="other">
+<stop offset="0" style="stop-color:#0065FF"/>
+<stop offset="1" style="stop-color:#6A88FF"/>
+</linearGradient>
+<ellipse rx="26.154013347691716" ry="26.154013347691777" id="67247551XMLID_18_" style="fill:url(#67247551XMLID_65_);" cx="938.3051990716633" cy="95.90538305622647"/>
+<radialGradient gradientTransform="matrix(0.5067036151885986,0.0,0.0,0.5067036151885986,786.5474243164062,-122.8638916015625)" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" xlink:type="simple" cx="299.501" r="51.6152" xlink:actuate="onLoad" id="67247551XMLID_66_" cy="431.75" xlink:show="other">
+<stop offset="0" style="stop-color:#3EDA88;stop-opacity:1"/>
+<stop offset="0" style="stop-color:#40D98A;stop-opacity:0.8346"/>
+<stop offset="0" style="stop-color:#47D791;stop-opacity:0.7599"/>
+<stop offset="0" style="stop-color:#52D39E;stop-opacity:0.7034"/>
+<stop offset="0" style="stop-color:#63CDB0;stop-opacity:0.6561"/>
+<stop offset="0" style="stop-color:#78C6C8;stop-opacity:0.6145"/>
+<stop offset="0" style="stop-color:#92BDE4;stop-opacity:0.5776"/>
+<stop offset="0" style="stop-color:#AAB4FF;stop-opacity:0.55"/>
+<stop offset="0.1353" style="stop-color:#AEB7FF;stop-opacity:0.4576"/>
+<stop offset="0.2636" style="stop-color:#B9C1FF;stop-opacity:0.3699"/>
+<stop offset="0.3891" style="stop-color:#CCD2FF;stop-opacity:0.2841"/>
+<stop offset="0.5122" style="stop-color:#E7EAFF;stop-opacity:0.2"/>
+<stop offset="0.6" style="stop-color:#FFFFFF;stop-opacity:0.14"/>
+<stop offset="0.6206" style="stop-color:#F9F9F9;stop-opacity:0.1438"/>
+<stop offset="0.6478" style="stop-color:#E9E9E9;stop-opacity:0.1488"/>
+<stop offset="0.6785" style="stop-color:#CDCDCD;stop-opacity:0.1544"/>
+<stop offset="0.7119" style="stop-color:#A7A7A7;stop-opacity:0.1606"/>
+<stop offset="0.7475" style="stop-color:#777777;stop-opacity:0.1671"/>
+<stop offset="0.7842" style="stop-color:#3C3C3C;stop-opacity:0.1738"/>
+<stop offset="0.8177" style="stop-color:#000000;stop-opacity:0.18"/>
+<stop offset="1" style="stop-color:#000000;stop-opacity:0.7"/>
+</radialGradient>
+<ellipse rx="26.154013347691716" ry="26.154013347691777" id="67247551XMLID_16_" style="fill:url(#67247551XMLID_66_);opacity:0.5;" cx="938.3051990716633" cy="95.90538305622647"/>
+</g>
+<ellipse style="fill:none;stroke:#18307C;" rx="26.154013347691716" cx="938.3051990716633" ry="26.154013347691777" id="67247551XMLID_14_" cy="95.90538305622647" stroke-miterlimit="10"/>
+<linearGradient x1="299.5" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" y1="443.3135" x2="299.5" y2="382.3438" xlink:type="simple" xlink:actuate="onLoad" id="67247551XMLID_74_" xlink:show="other">
+<stop offset="0" style="stop-color:#FFFFFF;stop-opacity:0.05"/>
+<stop offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<path id="67247551XMLID_13_" d="M348.453,431.297c0,27.036-21.917,0-48.953,0s-48.953,27.036-48.953,0   s21.917-48.953,48.953-48.953S348.453,404.261,348.453,431.297z" style="fill:url(#67247551XMLID_74_);fill-opacity:0.7;" transform="matrix(0.5067036151885986 0 0 0.5067036151885986 786.5474243164062 -122.8638916015625)"/>
+</g>
+<g style="visibility:hidden;" id="67247551XMLID_37_" inkscape:opac="combo;2;2">
+<linearGradient x1="299.5" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" y1="495.25" x2="299.5" y2="368.25" xlink:type="simple" xlink:actuate="onLoad" id="67247551XMLID_76_" xlink:show="other">
+<stop offset="0" style="stop-color:#000000;stop-opacity:0.2"/>
+<stop offset="0.1413" style="stop-color:#000000;stop-opacity:0.1788"/>
+<stop offset="1" style="stop-color:#000000;stop-opacity:0.05"/>
+</linearGradient>
+<path id="67247551XMLID_53_" d="M299.5,371.25c33.414,0,60.5,27.087,60.5,60.5s-27.086,60.5-60.5,60.5   c-33.412,0-60.5-27.087-60.5-60.5S266.088,371.25,299.5,371.25 M299.5,368.25c-35.014,0-63.5,28.486-63.5,63.5   s28.486,63.5,63.5,63.5s63.5-28.486,63.5-63.5S334.514,368.25,299.5,368.25L299.5,368.25z" style="fill:url(#67247551XMLID_76_);" transform="matrix(0.5067036151885986 0 0 0.5067036151885986 786.5474243164062 -122.8638916015625)"/>
+<radialGradient gradientTransform="matrix(0.5067036151885986,0.0,0.0,0.5067036151885986,786.5474243164062,-122.8638916015625)" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" xlink:type="simple" cx="299.5" r="60.5" xlink:actuate="onLoad" id="67247551XMLID_81_" cy="431.75" xlink:show="other">
+<stop offset="0" style="stop-color:#B4B5B8"/>
+<stop offset="0.07" style="stop-color:#EFF0F2"/>
+<stop offset="0.13" style="stop-color:#E2E2E2"/>
+<stop offset="0.18" style="stop-color:#F6F7F9"/>
+<stop offset="0.26" style="stop-color:#DFDFDF"/>
+<stop offset="0.35" style="stop-color:#E5E6E7"/>
+<stop offset="0.46" style="stop-color:#5B5B5B"/>
+<stop offset="0.56" style="stop-color:#E5E6E7"/>
+<stop offset="0.75" style="stop-color:#505562"/>
+<stop offset="0.85" style="stop-color:#FFDBAA"/>
+<stop offset="0.92" style="stop-color:#FFEBD4"/>
+<stop offset="0.95" style="stop-color:#E6E7E8"/>
+<stop offset="1" style="stop-color:#B4B5B8"/>
+</radialGradient>
+<ellipse rx="30.65556818690618" ry="30.65556818690624" id="67247551XMLID_52_" style="fill:url(#67247551XMLID_81_);" cx="938.3051990716632" cy="95.90538305622647"/>
+<g id="67247551XMLID_43_">
+<ellipse rx="26.154013347691716" ry="26.15401334769175" id="67247551XMLID_46_" style="fill:#FFFFFF;fill-opacity:0.5;" cx="938.3051990716633" cy="96.91879026901677"/>
+<linearGradient gradientTransform="matrix(0.5067036151885986,0.0,0.0,0.5067036151885986,786.5474243164062,-122.8638916015625)" x1="299.501" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" y1="483.3652" x2="299.501" y2="380.1348" xlink:type="simple" xlink:actuate="onLoad" id="67247551XMLID_82_" xlink:show="other">
+<stop offset="0" style="stop-color:#FFB100"/>
+<stop offset="1" style="stop-color:#FFD17F"/>
+</linearGradient>
+<ellipse rx="26.154013347691716" ry="26.154013347691777" id="67247551XMLID_45_" style="fill:url(#67247551XMLID_82_);" cx="938.3051990716633" cy="95.90538305622647"/>
+<radialGradient gradientTransform="matrix(0.5067036151885986,0.0,0.0,0.5067036151885986,786.5474243164062,-122.8638916015625)" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" xlink:type="simple" cx="299.501" r="51.6152" xlink:actuate="onLoad" id="67247551XMLID_83_" cy="431.75" xlink:show="other">
+<stop offset="0" style="stop-color:#3EDA88;stop-opacity:1"/>
+<stop offset="0" style="stop-color:#40DA88;stop-opacity:0.8533"/>
+<stop offset="0" style="stop-color:#47DB8A;stop-opacity:0.787"/>
+<stop offset="0" style="stop-color:#54DC8C;stop-opacity:0.7369"/>
+<stop offset="0" style="stop-color:#66DD8F;stop-opacity:0.6949"/>
+<stop offset="0" style="stop-color:#7EDF93;stop-opacity:0.658"/>
+<stop offset="0" style="stop-color:#9BE298;stop-opacity:0.6248"/>
+<stop offset="0" style="stop-color:#BDE59E;stop-opacity:0.5941"/>
+<stop offset="0" style="stop-color:#E4E8A5;stop-opacity:0.5664"/>
+<stop offset="0" style="stop-color:#FFEAAA;stop-opacity:0.55"/>
+<stop offset="0.1353" style="stop-color:#FFEBAE;stop-opacity:0.4576"/>
+<stop offset="0.2636" style="stop-color:#FFEEB9;stop-opacity:0.3699"/>
+<stop offset="0.3891" style="stop-color:#FFF2CC;stop-opacity:0.2841"/>
+<stop offset="0.5122" style="stop-color:#FFF9E7;stop-opacity:0.2"/>
+<stop offset="0.6" style="stop-color:#FFFFFF;stop-opacity:0.14"/>
+<stop offset="0.6206" style="stop-color:#F9F9F9;stop-opacity:0.1438"/>
+<stop offset="0.6478" style="stop-color:#E9E9E9;stop-opacity:0.1488"/>
+<stop offset="0.6785" style="stop-color:#CDCDCD;stop-opacity:0.1544"/>
+<stop offset="0.7119" style="stop-color:#A7A7A7;stop-opacity:0.1606"/>
+<stop offset="0.7475" style="stop-color:#777777;stop-opacity:0.1671"/>
+<stop offset="0.7842" style="stop-color:#3C3C3C;stop-opacity:0.1738"/>
+<stop offset="0.8177" style="stop-color:#000000;stop-opacity:0.18"/>
+<stop offset="1" style="stop-color:#000000;stop-opacity:0.7"/>
+</radialGradient>
+<ellipse rx="26.154013347691716" ry="26.154013347691777" id="67247551XMLID_44_" style="fill:url(#67247551XMLID_83_);opacity:0.5;" cx="938.3051990716633" cy="95.90538305622647"/>
+</g>
+<ellipse style="fill:none;stroke:#825700;" rx="26.154013347691716" cx="938.3051990716633" ry="26.154013347691777" id="67247551XMLID_42_" cy="95.90538305622647" stroke-miterlimit="10"/>
+<linearGradient x1="299.5" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" y1="443.3135" x2="299.5" y2="382.3438" xlink:type="simple" xlink:actuate="onLoad" id="67247551XMLID_84_" xlink:show="other">
+<stop offset="0" style="stop-color:#FFFFFF;stop-opacity:0.05"/>
+<stop offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<path id="67247551XMLID_41_" d="M348.453,431.297c0,27.036-21.917,0-48.953,0s-48.953,27.036-48.953,0   s21.917-48.953,48.953-48.953S348.453,404.261,348.453,431.297z" style="fill:url(#67247551XMLID_84_);fill-opacity:0.7;" transform="matrix(0.5067036151885986 0 0 0.5067036151885986 786.5474243164062 -122.8638916015625)"/>
+</g>
+<g style="visibility:visible;" id="67247551XMLID_7_" inkscape:opac="combo;3;3">
+<linearGradient x1="299.5" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" y1="495.25" x2="299.5" y2="368.25" xlink:type="simple" xlink:actuate="onLoad" id="67247551XMLID_86_" xlink:show="other">
+<stop offset="0" style="stop-color:#000000;stop-opacity:0.2"/>
+<stop offset="0.1413" style="stop-color:#000000;stop-opacity:0.1788"/>
+<stop offset="1" style="stop-color:#000000;stop-opacity:0.05"/>
+</linearGradient>
+<path id="67247551XMLID_78_" d="M299.5,371.25c33.414,0,60.5,27.087,60.5,60.5s-27.086,60.5-60.5,60.5   c-33.412,0-60.5-27.087-60.5-60.5S266.088,371.25,299.5,371.25 M299.5,368.25c-35.014,0-63.5,28.486-63.5,63.5   s28.486,63.5,63.5,63.5s63.5-28.486,63.5-63.5S334.514,368.25,299.5,368.25L299.5,368.25z" style="fill:url(#67247551XMLID_86_);" transform="matrix(0.5067036151885986 0 0 0.5067036151885986 786.5474243164062 -122.8638916015625)"/>
+<radialGradient gradientTransform="matrix(0.5067036151885986,0.0,0.0,0.5067036151885986,786.5474243164062,-122.8638916015625)" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" xlink:type="simple" cx="299.5" r="60.5" xlink:actuate="onLoad" id="67247551XMLID_88_" cy="431.75" xlink:show="other">
+<stop offset="0" style="stop-color:#B4B5B8"/>
+<stop offset="0.07" style="stop-color:#EFF0F2"/>
+<stop offset="0.13" style="stop-color:#E2E2E2"/>
+<stop offset="0.18" style="stop-color:#F6F7F9"/>
+<stop offset="0.26" style="stop-color:#DFDFDF"/>
+<stop offset="0.35" style="stop-color:#E5E6E7"/>
+<stop offset="0.46" style="stop-color:#5B5B5B"/>
+<stop offset="0.56" style="stop-color:#E5E6E7"/>
+<stop offset="0.75" style="stop-color:#505562"/>
+<stop offset="0.85" style="stop-color:#FFAAAA"/>
+<stop offset="0.92" style="stop-color:#FFD4D4"/>
+<stop offset="0.95" style="stop-color:#E6E7E8"/>
+<stop offset="1" style="stop-color:#B4B5B8"/>
+</radialGradient>
+<ellipse rx="30.65556818690618" ry="30.65556818690624" id="67247551XMLID_77_" style="fill:url(#67247551XMLID_88_);" cx="938.3051990716632" cy="95.90538305622647"/>
+<g id="67247551XMLID_47_">
+<ellipse rx="26.154013347691716" ry="26.15401334769175" id="67247551XMLID_71_" style="fill:#FFFFFF;fill-opacity:0.5;" cx="938.3051990716633" cy="96.91879026901677"/>
+<linearGradient gradientTransform="matrix(0.5067036151885986,0.0,0.0,0.5067036151885986,786.5474243164062,-122.8638916015625)" x1="299.501" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" y1="483.3652" x2="299.501" y2="380.1348" xlink:type="simple" xlink:actuate="onLoad" id="67247551XMLID_89_" xlink:show="other">
+<stop offset="0" style="stop-color:#FF0007"/>
+<stop offset="1" style="stop-color:#E90000"/>
+</linearGradient>
+<ellipse rx="26.154013347691716" ry="26.154013347691777" id="67247551XMLID_69_" style="fill:url(#67247551XMLID_89_);" cx="938.3051990716633" cy="95.90538305622647"/>
+<radialGradient gradientTransform="matrix(0.5067036151885986,0.0,0.0,0.5067036151885986,786.5474243164062,-122.8638916015625)" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" xlink:type="simple" cx="299.501" r="51.6152" xlink:actuate="onLoad" id="67247551XMLID_90_" cy="431.75" xlink:show="other">
+<stop offset="0" style="stop-color:#3EDA88;stop-opacity:1"/>
+<stop offset="0" style="stop-color:#40D988;stop-opacity:0.8533"/>
+<stop offset="0" style="stop-color:#47D789;stop-opacity:0.787"/>
+<stop offset="0" style="stop-color:#54D389;stop-opacity:0.7369"/>
+<stop offset="0" style="stop-color:#66CD8B;stop-opacity:0.6949"/>
+<stop offset="0" style="stop-color:#7EC68C;stop-opacity:0.658"/>
+<stop offset="0" style="stop-color:#9BBD8E;stop-opacity:0.6248"/>
+<stop offset="0" style="stop-color:#BDB290;stop-opacity:0.5941"/>
+<stop offset="0" style="stop-color:#E4A592;stop-opacity:0.5664"/>
+<stop offset="0" style="stop-color:#FF9D94;stop-opacity:0.55"/>
+<stop offset="0.1212" style="stop-color:#FFA098;stop-opacity:0.4672"/>
+<stop offset="0.2361" style="stop-color:#FFABA3;stop-opacity:0.3886"/>
+<stop offset="0.3486" style="stop-color:#FFBCB6;stop-opacity:0.3118"/>
+<stop offset="0.4596" style="stop-color:#FFD5D1;stop-opacity:0.2359"/>
+<stop offset="0.5685" style="stop-color:#FFF5F4;stop-opacity:0.1616"/>
+<stop offset="0.6" style="stop-color:#FFFFFF;stop-opacity:0.14"/>
+<stop offset="0.6206" style="stop-color:#F9F9F9;stop-opacity:0.1438"/>
+<stop offset="0.6478" style="stop-color:#E9E9E9;stop-opacity:0.1488"/>
+<stop offset="0.6785" style="stop-color:#CDCDCD;stop-opacity:0.1544"/>
+<stop offset="0.7119" style="stop-color:#A7A7A7;stop-opacity:0.1606"/>
+<stop offset="0.7475" style="stop-color:#777777;stop-opacity:0.1671"/>
+<stop offset="0.7842" style="stop-color:#3C3C3C;stop-opacity:0.1738"/>
+<stop offset="0.8177" style="stop-color:#000000;stop-opacity:0.18"/>
+<stop offset="1" style="stop-color:#000000;stop-opacity:0.7"/>
+</radialGradient>
+<ellipse rx="26.154013347691716" ry="26.154013347691777" id="67247551XMLID_50_" style="fill:url(#67247551XMLID_90_);opacity:0.5;" cx="938.3051990716633" cy="95.90538305622647"/>
+</g>
+<ellipse style="fill:none;stroke:#7F0000;" rx="26.154013347691716" cx="938.3051990716633" ry="26.154013347691777" id="67247551XMLID_25_" cy="95.90538305622647" stroke-miterlimit="10"/>
+<linearGradient x1="299.5" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" y1="443.3135" x2="299.5" y2="382.3438" xlink:type="simple" xlink:actuate="onLoad" id="67247551XMLID_91_" xlink:show="other">
+<stop offset="0" style="stop-color:#FFFFFF;stop-opacity:0.05"/>
+<stop offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<path id="67247551XMLID_24_" d="M348.453,431.297c0,27.036-21.917,0-48.953,0s-48.953,27.036-48.953,0   s21.917-48.953,48.953-48.953S348.453,404.261,348.453,431.297z" style="stroke-opacity:0.4;fill:url(#67247551XMLID_91_);fill-opacity:0.7;" transform="matrix(0.5067036151885986 0 0 0.5067036151885986 786.5474243164062 -122.8638916015625)"/>
+</g>
+</g>
+<path d="M0 0L10 0L10 10L0 10L0 0Z" id="67247551positionCheckElementNoSeL" style="display:none" transform="matrix(0.5067036151885986 0 0 0.5067036151885986 901.5691528320312 42.32148361206055)"/>
+</g>
+<g inkscape:componentSize="855.0;147.26666259765625;166.60980224609375;69.0" inkscape:componentData="{&quot;name&quot;:&quot;Component Name&quot;,&quot;desc&quot;:&quot;Component Description&quot;,&quot;author&quot;:&quot;mySCADA Team&quot;,&quot;uniqueID&quot;:&quot;54f9ab1b45&quot;,&quot;MasterID&quot;:&quot;187880463&quot;,&quot;list&quot;:[{&quot;variableName&quot;:&quot;tag&quot;,&quot;name&quot;:&quot;Tag&quot;,&quot;desc&quot;:&quot;Enter Tag&quot;,&quot;value&quot;:&quot;test@script&quot;,&quot;valueSub&quot;:&quot;test&quot;,&quot;type&quot;:0},{&quot;variableName&quot;:&quot;color&quot;,&quot;name&quot;:&quot;Foreground color&quot;,&quot;desc&quot;:&quot;Set color&quot;,&quot;value&quot;:&quot;#3399FF&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4},{&quot;variableName&quot;:&quot;color2&quot;,&quot;name&quot;:&quot;Background color&quot;,&quot;desc&quot;:&quot;Set color&quot;,&quot;value&quot;:&quot;#2A3D4F&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4},{&quot;variableName&quot;:&quot;txt1&quot;,&quot;name&quot;:&quot;Text On&quot;,&quot;desc&quot;:&quot;Edit text&quot;,&quot;value&quot;:&quot;Вкл&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:1},{&quot;variableName&quot;:&quot;txt2&quot;,&quot;name&quot;:&quot;Text Off&quot;,&quot;desc&quot;:&quot;Edit text&quot;,&quot;value&quot;:&quot;Выкл&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:1}]}" id="Comp11078287">
+<g id="11078287g0002">
+<path style="fill:#D1D3D4;" d="M146,75c0,11.046-8.954,20-20,20H67c-11.046,0-20-8.954-20-20v-1c0-11.046,8.954-20,20-20h59   c11.046,0,20,8.954,20,20V75z" transform="matrix(1.6829267740249634 0 0 1.6829267740249634 775.9024658203125 56.388614654541016)"/>
+<ellipse rx="26.506097560975604" ry="26.50609756097562" style="fill:#808285;" cx="889.5353414634145" cy="181.76665757342084"/>
+<text inkscape:textik="txt2" id="11078287text0002" style="text-anchor:middle;font-size:17.1476;font-family:&apos;Ubuntu&apos;;fill:#FFFFFF;" transform="matrix(1.6829267740249634 0 0 1.6829267740249634 965.0045166015625 190.79270935058594)">
+Выкл</text>
+</g>
+<g inkscape:lblTemplate="{&quot;attr&quot;:&quot;opac&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;1&quot;,&quot;max&quot;:&quot;1&quot;}" id="11078287g0001" style="visibility:visible;" inkscape:opac="show;1;1" inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;tag&quot;:&quot;test@script&quot;,&quot;alias&quot;:&quot;test&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;1&quot;,&quot;max&quot;:&quot;1&quot;},{&quot;attr&quot;:&quot;Component&quot;,&quot;parentID&quot;:&quot;Comp11078287&quot;}">
+<path id="11078287path0001" d="M146,75c0,11.046-8.954,20-20,20H67c-11.046,0-20-8.954-20-20v-1c0-11.046,8.954-20,20-20h59   c11.046,0,20,8.954,20,20V75z" style="fill:#2A3D4F;" transform="matrix(1.6829267740249634 0 0 1.6829267740249634 775.9024658203125 56.388614654541016)"/>
+<ellipse inkscape:vypln="color,100" style="fill:#3399FF;" rx="26.506097560975604" cx="985.4621734383546" id="11078287ellipse0001" ry="26.506097560975604" cy="181.7666584272933"/>
+<text inkscape:vypln="color,100" inkscape:textik="txt1" id="11078287text0001" style="text-anchor:middle;font-size:17.1476;font-family:&apos;Ubuntu&apos;;fill:#3399FF;" transform="matrix(1.6829267740249634 0 0 1.6829267740249634 902.5189819335938 190.79270935058594)">
+Вкл</text>
+</g>
+<path d="M0 0L10 0L10 10L0 10L0 0Z" id="11078287positionCheckElementNoSeL" style="display:none" transform="matrix(1.6829267740249634 0 0 1.6829267740249634 855 147.2666473388672)"/>
+</g>
+<g inkscape:componentSize="1038.1497802734375;371.1015625;209.5819091796875;108.551025390625" inkscape:componentData="{&quot;name&quot;:&quot;Display&quot;,&quot;desc&quot;:&quot;Digital display&quot;,&quot;author&quot;:&quot;mySCADA Team&quot;,&quot;uniqueID&quot;:&quot;913f17c5bb&quot;,&quot;MasterID&quot;:&quot;163890063&quot;,&quot;list&quot;:[{&quot;variableName&quot;:&quot;tag&quot;,&quot;name&quot;:&quot;Tag&quot;,&quot;desc&quot;:&quot;Enter Tag&quot;,&quot;value&quot;:&quot;test@script&quot;,&quot;valueSub&quot;:&quot;test&quot;,&quot;type&quot;:0},{&quot;variableName&quot;:&quot;color&quot;,&quot;name&quot;:&quot;Color&quot;,&quot;desc&quot;:&quot;Set color&quot;,&quot;value&quot;:&quot;#009FE3&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4},{&quot;variableName&quot;:&quot;showtxt&quot;,&quot;name&quot;:&quot;Show text&quot;,&quot;desc&quot;:&quot;Show text&quot;,&quot;value&quot;:&quot;0&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:5},{&quot;variableName&quot;:&quot;colortxt&quot;,&quot;name&quot;:&quot;Text color&quot;,&quot;desc&quot;:&quot;Set color&quot;,&quot;value&quot;:&quot;#FFFFFF&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4},{&quot;variableName&quot;:&quot;min&quot;,&quot;name&quot;:&quot;Min&quot;,&quot;desc&quot;:&quot;Set value&quot;,&quot;value&quot;:&quot;0&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:2},{&quot;variableName&quot;:&quot;max&quot;,&quot;name&quot;:&quot;Max&quot;,&quot;desc&quot;:&quot;Set value&quot;,&quot;value&quot;:&quot;100&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:2},{&quot;variableName&quot;:&quot;format&quot;,&quot;name&quot;:&quot;Format&quot;,&quot;desc&quot;:&quot;Set format&quot;,&quot;value&quot;:&quot;##.#&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:1},{&quot;variableName&quot;:&quot;unit&quot;,&quot;name&quot;:&quot;Unit&quot;,&quot;desc&quot;:&quot;Set unit&quot;,&quot;value&quot;:&quot;бар&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:1}]}" id="Comp55270056">
+<linearGradient gradientTransform="rotate(270.0,0.5,0.5)" x1="0%" xmlns:xlink="http://www.w3.org/1999/xlink" y1="0%" x2="100%" gradientUnits="objectBoundingBox" y2="0%" xlink:type="simple" xlink:actuate="onLoad" id="55270056lin0003" xlink:show="other" spreadMethod="pad">
+<stop offset="0%" style="stop-color:#333333;stop-opacity:0.29;"/>
+<stop offset="32%" style="stop-color:#ffffff;stop-opacity:0.0;"/>
+</linearGradient>
+<linearGradient gradientTransform="" x1="0%" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="objectBoundingBox" x2="100%" y1="0%" y2="0%" xlink:type="simple" xlink:actuate="onLoad" id="55270056lin0002" xlink:show="other" spreadMethod="pad">
+<stop style="stop-color:#ffffff;stop-opacity:0.25;" offset="0%"/>
+<stop style="stop-color:#333333;stop-opacity:0.27;" offset="100%"/>
+</linearGradient>
+<linearGradient gradientTransform="rotate(270.0,0.5,0.5)" x1="0%" xmlns:xlink="http://www.w3.org/1999/xlink" y1="0%" x2="100%" gradientUnits="objectBoundingBox" y2="0%" xlink:type="simple" xlink:actuate="onLoad" id="55270056lin0001" xlink:show="other" spreadMethod="pad">
+<stop offset="55%" style="stop-color:#ffffff;stop-opacity:0.0;"/>
+<stop offset="100%" style="stop-color:#ffffff;stop-opacity:0.46;"/>
+</linearGradient>
+<pattern width="2" xmlns:xlink="http://www.w3.org/1999/xlink" patternUnits="userSpaceOnUse" xlink:type="simple" xlink:actuate="onLoad" height="1" patternTransform="rotate(45,0,0) translate(0,0) scale(10,10)" id="55270056rad0002" preserveAspectRatio="xMidYMid meet" xlink:show="other" inkscape:collect="always">
+<rect x="0" width="1" height="2" y="-0.5" style="opacity:0.02;fill:black;stroke:none"/>
+</pattern>
+<pattern width="2" xmlns:xlink="http://www.w3.org/1999/xlink" patternUnits="userSpaceOnUse" xlink:type="simple" xlink:actuate="onLoad" height="1" patternTransform="rotate(45,0,0) translate(0,0) scale(28,28)" id="55270056rad0001" preserveAspectRatio="xMidYMid meet" xlink:show="other" inkscape:collect="always">
+<rect x="0" width="1" height="2" y="-0.5" style="opacity:0.13;fill:black;stroke:none"/>
+</pattern>
+<rect x="1038.1497895515606" y="371.10157868405565" width="209.58193550540534" style="fill:#e6e6e6;stroke:none; stroke-width:1;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;" rx="3" height="108.55098885153478" id="55270056rect0004" ry="3"/>
+<rect x="11.4553807499083" y="-44.53520849426974" transform="matrix(-3.2747177422719616 -0 -0 -0.5606382489204407 1285.244847755216 454.6844177246094)" inkscape:lblTemplate="{&quot;attr&quot;:&quot;bar&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;min&quot;,&quot;max&quot;:&quot;max&quot;,&quot;type&quot;:&quot;1&quot;}" width="63.99999999999994" style="visibility:visible;stroke-linejoin:miter;stroke-dasharray:none;stroke-width:1;fill:#009FE3;stroke:none;stroke-linecap:butt;" inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;tag&quot;:&quot;test@script&quot;,&quot;alias&quot;:&quot;test&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;0&quot;,&quot;max&quot;:&quot;100&quot;,&quot;type&quot;:&quot;1&quot;},{&quot;attr&quot;:&quot;Component&quot;,&quot;parentID&quot;:&quot;Comp55270056&quot;}" inkscape:vypln="color,100" rx="3" ry="3" id="55270056rect0001" height="193.62036914721688"/>
+<g inkscape:groupmode="layer" id="layer2" style="display:inline;opacity:1.0;" inkscape:componentalign="bc" inkscape:layerlabel="text">
+<text x="108.74999999999996" y="154.37499999999994" transform="matrix(1 0 0 1 1034.1236572265625 315.0361328125)" inkscape:lblTemplate="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;Value&quot;,&quot;param&quot;:&quot;Decimal&quot;,&quot;stringType&quot;:&quot;10;0;Automatic&quot;}" inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;test@script&quot;,&quot;alias&quot;:&quot;test&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;Value&quot;,&quot;param&quot;:&quot;Decimal&quot;,&quot;stringType&quot;:&quot;10;0;Automatic&quot;},{&quot;attr&quot;:&quot;Component&quot;,&quot;parentID&quot;:&quot;Comp55270056&quot;}" inkscape:vypln="colortxt,100" inkscape:textik="format+&quot; &quot;+unit" style="visibility:hidden;font-weight:bold;text-anchor:middle;font-size:10pt;font-family:&apos;Ubuntu&apos;;font-style:normal;fill:#FFFFFF;stroke:none;fill-opacity:1;" id="55270056text0001" inkscape:opac="showtxt;1;1">
+##.# бар</text>
+</g>
+<path d="M0 0L10 0L10 10L0 10L0 0Z" id="55270056positionCheckElementNoSeL" style="display:none" transform="matrix(3.2747178077697754 0 0 0.5606382489204407 1038.1497802734375 371.1015625)"/>
+</g>
+<rect x="158" y="97.88815816243496" width="89.88888888888891" style="fill:#808080;stroke:none; stroke-width:1;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;" rx="10" height="16.5" id="rect0003" ry="10"/>
+<rect x="459.8454715014363" y="432.42028270349545" transform="matrix(-0.0018920935686980917 -0.9999982099893616 0.9999982099893616 -0.0018920935686980917 -199.3017389788619 673.5750024818286)" width="115" style="fill:#808080;stroke:none; stroke-width:1;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;" rx="10.0" ry="10.0" id="rect0004" height="16.5"/>
+<rect x="369.8888888888888" y="81.44371371799048" width="57.5" style="fill:#808080;stroke:none; stroke-width:1;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;" rx="10.0" ry="10.0" id="rect0005" height="16.5"/>
+<rect x="329" y="258.8881581624349" width="179.50000000000006" style="fill:#808080;stroke:none; stroke-width:1;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;" rx="10.0" ry="10.0" height="16.5" id="rect0006"/>
+<rect x="397.17915982069513" y="529.2633086532888" transform="matrix(-0.0018920935686980917 -0.9999982099893616 0.9999982099893616 -0.0018920935686980917 -199.3017389788619 673.5750024818286)" width="115" style="fill:#808080;stroke:none; stroke-width:1;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;" rx="10.0" ry="10.0" height="16.5" id="rect0007"/>
+<path id="path0001" d="M128 212L128 248L149 230L128 212ZM170 212L149 230L170 248L170 212Z" style="fill:#999999; stroke:#666666; stroke-width:1;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;" transform="matrix(1 0 0 1 0 -124.44517517089844)"/>
+<rect x="451" y="81.44371371799048" width="57.5" style="fill:#808080;stroke:none; stroke-width:1;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;" rx="10.0" ry="10.0" height="16.5" id="rect0010"/>
+<path id="path0002" d="M128 212L128 248L149 230L128 212ZM170 212L149 230L170 248L170 212Z" style="fill:#999999; stroke:#666666; stroke-width:1;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;" transform="matrix(1 0 0 1 290.3334655761719 -141.6118450164795)"/>
+<rect x="329.00000000000006" y="52.93537902832031" width="51" style="fill:#c0c0c0;stroke:#666666; stroke-width:3;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;" rx="47.78797468354435" ry="14" id="rect0002" height="102.46129735509572"/>
+<rect x="175.5" y="131.68953704833984" width="249.28797468354435" style="fill:#c0c0c0;stroke:#666666; stroke-width:3;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;" rx="47.78797468354435" height="114.96685028076172" id="rect0001" ry="43"/>
+<rect x="158" y="412.2237752278646" width="89.88888888888891" style="fill:#808080;stroke:none; stroke-width:1;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;" rx="5.0" id="rect0012" height="8.25" ry="5.0"/>
+<rect x="145.51041768831612" y="431.8255303061355" transform="matrix(-0.0009460467845201492 -0.9999982118606567 0.49999910593032837 -0.0018920935690402985 24.718726506600888 673.5750122070312)" width="115" style="fill:#808080;stroke:none; stroke-width:1;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;" rx="5.0" height="16.5" id="rect0013" ry="5.0"/>
+<path d="M128 212L128 248L149 230L128 212ZM170 212L149 230L170 248L170 212Z" id="path0003" style="fill:#999999; stroke:#666666; stroke-width:1;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;" transform="matrix(1 0 0 1 -0.00000006466468960297789 189.89044189453125)"/>
+<path id="path0004" d="M128 212L128 248L149 230L128 212ZM170 212L149 230L170 248L170 212Z" style="fill:#999999; stroke:#666666; stroke-width:1;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;" transform="matrix(1 0 0 1 290.33349793643396 172.72378540039062)"/>
+<rect x="329" y="367.27099609375" width="51" style="fill:#808080;stroke:#808080; stroke-width:3;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;" rx="47.78797468354435" height="102.46129735509572" id="rect0018" ry="14"/>
+<rect x="175.5" y="446.02515411376953" width="249.28797468354435" style="fill:#808080;stroke:#808080; stroke-width:3;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;" rx="47.78797468354435" id="rect0019" height="114.96685028076172" ry="43"/>
+<rect x="63.55415172314821" y="608.8972401359496" transform="matrix(-0.0009460467845201492 -0.9999982118606567 0.49999910593032837 -0.0018920935690402985 24.718726506600888 673.5750122070312)" width="115" style="fill:#808080;stroke:none; stroke-width:1;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;" rx="5.0" id="rect0011" height="16.5" ry="5.0"/>
+<rect x="329" y="600.6146479795665" width="89.88888888888891" style="fill:#808080;stroke:none; stroke-width:1;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;" rx="5.0" height="8.25" id="rect0020" ry="5.0"/>
+<rect x="343.2324191279886" y="399.3904418945313" width="89.88888888888891" style="fill:#808080;stroke:none; stroke-width:1;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;" rx="5.0" height="8.25" id="rect0021" ry="5.0"/>
+<rect x="456.1666666666667" y="400.2237752278646" width="89.88888888888891" style="fill:#808080;stroke:none; stroke-width:1;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;" rx="5.0" id="rect0022" height="8.25" ry="5.0"/>
+</g>
+<g inkscape:groupmode="layer" myscada:layerActiveArea="YES" id="layer1" inkscape:layerlabel="ActiveArea"/>
+</svg>
